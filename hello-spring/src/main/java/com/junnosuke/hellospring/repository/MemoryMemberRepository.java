@@ -1,6 +1,7 @@
 package com.junnosuke.hellospring.repository;
 
 import com.junnosuke.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 

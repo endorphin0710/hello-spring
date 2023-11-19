@@ -2,7 +2,6 @@ package com.junnosuke.hellospring.service;
 
 import com.junnosuke.hellospring.domain.Member;
 import com.junnosuke.hellospring.repository.MemberRepository;
-import com.junnosuke.hellospring.repository.MemoryMemberRepository;
 
 import java.util.List;
 import java.util.Optional;
